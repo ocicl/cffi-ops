@@ -1,0 +1,9 @@
+* cffi-ops
+
+A library that helps write concise CFFI-related code.
+
+|---------+-------------------------------------------------|
+| source  | git:https://github.com/bohonghuang/cffi-ops.git |
+| commit  | 480dbdf                                         |
+| systems | cffi-ops                                        |
+|---------+-------------------------------------------------|
