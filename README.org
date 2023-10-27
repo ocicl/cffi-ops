@@ -4,6 +4,6 @@ A library that helps write concise CFFI-related code.
 
 |---------+-------------------------------------------------|
 | source  | git:https://github.com/bohonghuang/cffi-ops.git |
-| commit  | 90314c1                                         |
+| commit  | ca8091f                                         |
 | systems | cffi-ops                                        |
 |---------+-------------------------------------------------|
